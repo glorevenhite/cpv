@@ -1,0 +1,5 @@
+firebase-admin
+Flask
+gunicorn
+flask-cors
+bcrypt
